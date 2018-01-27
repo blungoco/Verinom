@@ -46,6 +46,11 @@ h6 {
   background-color: #212529 !important;
 }
 
+.sm-dark {
+  background-color: #212529 !important;
+  padding: 1rem 0;
+}
+
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
